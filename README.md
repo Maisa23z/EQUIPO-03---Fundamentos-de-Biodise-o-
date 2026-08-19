@@ -31,10 +31,10 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 |------|--------|-----|-----------|
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.33.45 PM.jpeg" width="90"/> | **María Isabel Monzón La Rosa** | Líder del equipo | Innovación sostenible, investigadora|
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.08 PM.jpeg" width="90"/> | **Rodrigo Alonso Huanca Benites** | Responsable de organizacion |  |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.28 PM.jpeg" width="90"/> | **Giovanni Guardamino Velasquez** | Diseñador/a | Diseño de prototipos, creatividad aplicada |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Encargado/a de documentación | Comunicación científica, redacción técnica |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.01 PM.jpeg" width="90"/> | **Luis Diego Espinoza Cuya** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | Programador/a - Modelador/a | Programación, análisis de datos, simulación |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.28 PM.jpeg" width="90"/> | **Giovanni Guardamino Velasquez** | Diseñador| Diseño de prototipos |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Encargada de documentación | redacción técnica |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.01 PM.jpeg" width="90"/> | **Luis Diego Espinoza Cuya** | Programador |  análisis de datos|
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | investigador | investigador secundario, responsabilidad social|
 
 
 ---
