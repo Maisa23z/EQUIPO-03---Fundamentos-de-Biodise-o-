@@ -1,11 +1,11 @@
-# Equipo 0X - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 03 - Fundamentos de Biodiseño
+### Carrera de Ingeniería Biomédica 
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 03** del curso **Fundamentos de Biodiseño  2026-2**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 03** del curso **Fundamentos de Biodiseño  2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomédica .  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
