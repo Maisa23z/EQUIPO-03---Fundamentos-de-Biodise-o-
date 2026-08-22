@@ -15,11 +15,13 @@ A través de esta asignatura, buscamos desarrollar un proyecto integral que comb
 ## 🎯 Alineación con los Objetivos de Desarrollo Sostenible (ODS)
 Para garantizar que nuestra propuesta genere un impacto positivo, responsable y sostenible en la sociedad, hemos alineado las líneas de trabajo de nuestro proyecto con los siguientes **Objetivos de Desarrollo Sostenible (ODS)** de las Naciones Unidas:
 
-**- ODS 3: Salud y Bienestar**  
+**- ODS 3: Salud y Bienestar:**  
   Promovemos el acceso a soluciones tecnológicas que contribuyan a la prevención, diagnóstico oportuno y tratamiento efectivo de diversas condiciones de salud.
-**- ODS 9: Industria, Innovación e Infraestructura**  
+
+**- ODS 9: Industria, Innovación e Infraestructura:**  
   Fomentamos el desarrollo y la investigación científica aplicada, diseñando prototipos y tecnología biomédica innovadora que fortalezca el sector salud.
-**- ODS 10: Reducción de las Desigualdades**  
+
+**- ODS 10: Reducción de las desigualdades:**  
   Trabajamos bajo el enfoque de diseño accesible, orientado a crear tecnologías de la salud equitativas, de costo razonable y aplicables a diversos entornos sociodemográficos.
 
 ---
@@ -53,9 +55,14 @@ Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. 
 
 Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
-- ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
-- ODS 9: Industria, Innovación e Infraestructura: Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
-- ODS 10: Reducción de las desigualdades: Proponemos solución para mejorar la calidad de vida y seguridad del paciente en actividades cotidianas. 
+**- ODS 3: Salud y Bienestar** 
+Desarrollo de una solución asistencial para la mejora funcional del paciente.
+
+**- ODS 9: Industria, Innovación e Infraestructura**
+Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
+
+**- ODS 10: Reducción de las desigualdades:** 
+Proponemos solución para mejorar la calidad de vida y seguridad del paciente en actividades cotidianas. 
 
 El presente repositorio será la presentación de nuestro trabajo durante todo el ciclo. 
 ¡Bienvenidos! 
