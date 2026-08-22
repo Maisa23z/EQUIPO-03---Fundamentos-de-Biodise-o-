@@ -13,15 +13,15 @@ Nuestro propósito principal es aplicar rigurosamente Nuestro propósito princip
 A través de esta asignatura, buscamos desarrollar un proyecto integral que combine criterio científico, viabilidad técnica e impacto ético y ambiental, respondiendo a los estándares actuales de la ingeniería clínica y la tecnología médica.
 
 ## 🎯 Alineación con los Objetivos de Desarrollo Sostenible (ODS)
-Para garantizar que nuestra propuesta genere un impacto positivo, responsable y sostenible en la sociedad, hemos alineado las líneas de trabajo de nuestro proyecto con los siguientes **Objetivos de Desarrollo Sostenible (ODS)** de las Naciones Unidas:
+Para garantizar que nuestra propuesta genere un impacto positivo, responsable y sostenible en la sociedad, hemos alineado las líneas de trabajo de nuestro proyecto con los siguientes **Objetivos de Desarrollo Sostenible (ODS)** de las Naciones Unidas
 
-**- ODS 3: Salud y Bienestar:**  
+**- ODS 3: Salud y Bienestar**  
   Promovemos el acceso a soluciones tecnológicas que contribuyan a la prevención, diagnóstico oportuno y tratamiento efectivo de diversas condiciones de salud.
 
-**- ODS 9: Industria, Innovación e Infraestructura:**  
+**- ODS 9: Industria, Innovación e Infraestructura**  
   Fomentamos el desarrollo y la investigación científica aplicada, diseñando prototipos y tecnología biomédica innovadora que fortalezca el sector salud.
 
-**- ODS 10: Reducción de las desigualdades:**  
+**- ODS 10: Reducción de las desigualdades**  
   Trabajamos bajo el enfoque de diseño accesible, orientado a crear tecnologías de la salud equitativas, de costo razonable y aplicables a diversos entornos sociodemográficos.
 
 ---
@@ -41,7 +41,7 @@ Para garantizar que nuestra propuesta genere un impacto positivo, responsable y 
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.33.45 PM.jpeg" width="90"/> | **María Isabel Monzón La Rosa** | Líder del equipo | Coordinación de la solución integral de rehabilitación y supervisión del proyecto|
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.08 PM.jpeg" width="90"/> | **Rodrigo Alonso Huanca Benites** | Responsable de organización | Planificación del cronograma de actividades y soporte técnico |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.28 PM.jpeg" width="90"/> | **Giovanni Guardamino Velasquez** | Diseñador| Diseño ergonómico de soportes |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Coordinación de proyectos | Sistematización de la historia médica, búsqueda de soluciones clave, registro del avance y documentación del proceso. |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Coordinación de proyectos | Sistematización de la historia médica, búsqueda de propuestas de soluciones, registro del avance y documentación del proceso |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.01 PM.jpeg" width="90"/> | **Luis Diego Espinoza Cuya** | Programador |  Análisis de datos de movilidad de la mano y seguimiento del progreso de fuerza proximal en la articulación|
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | Investigador | Evaluación del impacto en las actividades de la vida diaria y la adaptación psicológica del paciente|
 
