@@ -5,12 +5,13 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 03** del curso **Fundamentos de Biodiseño  2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomédica .  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
+Somos el **Equipo 03** del curso **Fundamentos de Biodiseño 2026-2**, conformado por un equipo de 6estudiantes de la carrera de Ingeniería Biomédica.  
+Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental; considerando los objetivos del curso, las ODS y el impacto de innovación tecnológica propia de nuestra carrera.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 3: Salud y Bienestar  
 - ODS 9: Industria, Innovación e Infraestructura  
+- ODS 10: Reducción de las desigualdades 
 
 ---
 
@@ -27,23 +28,25 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | Foto | Nombre | Rol | Intereses |
 |------|--------|-----|-----------|
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.33.45 PM.jpeg" width="90"/> | **María Isabel Monzón La Rosa** | Líder del equipo | Coordinación de la solución integral de rehabilitación y supervisión del proyecto|
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.08 PM.jpeg" width="90"/> | **Rodrigo Alonso Huanca Benites** | Responsable de organizacion | Planificación del cronograma de actividades y soporte técnico |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.08 PM.jpeg" width="90"/> | **Rodrigo Alonso Huanca Benites** | Responsable de organización | Planificación del cronograma de actividades y soporte técnico |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.28 PM.jpeg" width="90"/> | **Giovanni Guardamino Velasquez** | Diseñador| Diseño ergonómico de soportes |
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Encargada de documentación | Sistematización de la historia médica, registro del avance y documentación técnica |
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Coordinación de proyectos | Sistematización de la historia médica, búsqueda de soluciones clave, registro del avance y documentación del proceso. |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.01 PM.jpeg" width="90"/> | **Luis Diego Espinoza Cuya** | Programador |  Análisis de datos de movilidad de la mano y seguimiento del progreso de fuerza proximal en la articulación|
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | Investigador | Evaluación del imapcto en las actividades de la vida diaria y la adaptación psicológica del paciente|
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | Investigador | Evaluación del impacto en las actividades de la vida diaria y la adaptación psicológica del paciente|
 
 
 ---
 
 ## 📌 Resumen Final  
-  Somos el Equipo 03 del curso Fundamentos de Biodiseño (2026-2), un equipo multidisciplinario integrado por estudiantes de Ingeniería Biomédica. 
+  Somos el Equipo 03 del curso Fundamentos de Biodiseño (2026-2), un equipo multidisciplinario integrado, con el interés de conocer y establecer propuestas innovadoras que logren establecer proyectos éticos, viables e innovadores. 
 
-Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. En este proyecto, aplicamos la metodología de biodiseño para desarrollar una solución innovadora enfocada en mejorar la calidad de vida, rehabilitación y autonomía de un paciente con secuelas de Parálisis Braquial Obstétrica (PBO) / Síndrome de Erb-Duchenne
+Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. En este proyecto, aplicamos la metodología de biodiseño para desarrollar una solución enfocada en mejorar la calidad de vida, rehabilitación y autonomía de un paciente con secuelas de Parálisis Braquial Obstétrica (PBO) / Síndrome de Erb-Duchenne. 
 
 Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
-
- - ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
-
+- ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
 - ODS 9: Industria, Innovación e Infraestructura: Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
+- ODS 10: Reducción de las desigualdades: Proponemos solución para mejorar la calidad de vida y seguridad del paciente en actividades cotidianas. 
+
+El presente repositorio será la presentación de nuestro trabajo durante todo el ciclo. 
+¡Bienvenidos! 
