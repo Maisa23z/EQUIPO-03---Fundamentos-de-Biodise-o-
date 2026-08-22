@@ -43,22 +43,7 @@ Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. 
 
 Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS)
 
-ODS 3: Salud y Bienestar 
 
-Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
+ - ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
 
-ODS 9: Industria, Innovación e Infraestructura 
-
-Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
-
-ODS 11: Ciudades y Comunidades Sostenibles 
-
-Promoción de la inclusión tecnológica y accesibilidad para personas con discapacidad.
-
-ODS 6: Agua Limpia y Saneamiento
-
-Selección de procesos y materiales de bajo impacto ambiental durante el diseño.
-
-ODS 13: Acción por el Clima
-
-Compromiso con un ciclo de vida sostenible del producto y ecodiseño.
+- ODS 9: Industria, Innovación e Infraestructura: Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
