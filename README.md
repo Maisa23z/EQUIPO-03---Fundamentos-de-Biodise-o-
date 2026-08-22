@@ -5,13 +5,22 @@
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 03** del curso **Fundamentos de Biodiseño 2026-2**, conformado por un equipo de 6estudiantes de la carrera de Ingeniería Biomédica.  
-Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental; considerando los objetivos del curso, las ODS y el impacto de innovación tecnológica propia de nuestra carrera.  
+Somos el **Equipo 03** del curso **Fundamentos de Biodiseño 2026-2**, conformado por un equipo de 6 estudiantes de la carrera de Ingeniería Biomédica.  
 
-Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
-- ODS 3: Salud y Bienestar  
-- ODS 9: Industria, Innovación e Infraestructura  
-- ODS 10: Reducción de las desigualdades 
+## 📌 Nuestra Misión y Enfoque
+Nuestro propósito principal es aplicar rigurosamente Nuestro propósito principal es aplicar rigurosamente la **metodología de biodiseño**, un proceso estructurado enfocado en la identificación precisa de necesidades clínicas no resueltas, la invención de conceptos tecnológicos viables y la implementación estratégica de dispositivos médicos o herramientas biomédicas. 
+
+A través de esta asignatura, buscamos desarrollar un proyecto integral que combine criterio científico, viabilidad técnica e impacto ético y ambiental, respondiendo a los estándares actuales de la ingeniería clínica y la tecnología médica.
+
+## 🎯 Alineación con los Objetivos de Desarrollo Sostenible (ODS)
+Para garantizar que nuestra propuesta genere un impacto positivo, responsable y sostenible en la sociedad, hemos alineado las líneas de trabajo de nuestro proyecto con los siguientes **Objetivos de Desarrollo Sostenible (ODS)** de las Naciones Unidas:
+
+**- ODS 3: Salud y Bienestar**  
+  Promovemos el acceso a soluciones tecnológicas que contribuyan a la prevención, diagnóstico oportuno y tratamiento efectivo de diversas condiciones de salud.
+**- ODS 9: Industria, Innovación e Infraestructura**  
+  Fomentamos el desarrollo y la investigación científica aplicada, diseñando prototipos y tecnología biomédica innovadora que fortalezca el sector salud.
+**- ODS 10: Reducción de las Desigualdades**  
+  Trabajamos bajo el enfoque de diseño accesible, orientado a crear tecnologías de la salud equitativas, de costo razonable y aplicables a diversos entornos sociodemográficos.
 
 ---
 
@@ -42,7 +51,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. En este proyecto, aplicamos la metodología de biodiseño para desarrollar una solución enfocada en mejorar la calidad de vida, rehabilitación y autonomía de un paciente con secuelas de Parálisis Braquial Obstétrica (PBO) / Síndrome de Erb-Duchenne. 
 
-Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS)
+Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS):
 
 - ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
 - ODS 9: Industria, Innovación e Infraestructura: Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
