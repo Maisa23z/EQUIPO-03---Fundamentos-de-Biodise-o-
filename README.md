@@ -31,7 +31,7 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.28 PM.jpeg" width="90"/> | **Giovanni Guardamino Velasquez** | Diseñador| Diseño ergonómico de soportes |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.27.59 PM.jpeg" width="90"/> | **Ariana Alessandra Munguia Avila** | Encargada de documentación | Sistematización de la historia médica, registro del avance y documentación técnica |
 | <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.01 PM.jpeg" width="90"/> | **Luis Diego Espinoza Cuya** | Programador |  Análisis de datos de movilidad de la mano y seguimiento del progreso de fuerza proximal en la articulación|
-| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | investigador | Evaluación del imapcto en las actividades de la vida diaria y la adaptación psicológica del paciente|
+| <img src="Recursos/Imágenes/WhatsApp Image 2026-08-19 at 4.29.22 PM.jpeg" width="90"/> | **Dominick Pavel Martel Vilca** | Investigador | Evaluación del imapcto en las actividades de la vida diaria y la adaptación psicológica del paciente|
 
 
 ---
