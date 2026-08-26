@@ -1,19 +1,16 @@
-# Equipo 0X - Nombre del curso
-### Carrera de Ingeniería Ambiental / Informática / Industrial  
+# Equipo 03 - Fundamentos de Biodiseño
+### Carrera de Ingeniería Biomedica
 **Universidad Peruana Cayetano Heredia**
 
 ---
 
 ## 🌍 Descripción del Equipo 
-Somos el **Equipo 0X** del curso **Nombre del curso 202X-1**, conformado por estudiantes de la carrera de Ingeniería Ambiental / Informática / Industrial.  
+Somos el **Equipo 03** del curso **Fundamentos de biodiseño 2026-2**, conformado por estudiantes de la carrera de Ingeniería Biomedica.  
 Nuestro objetivo es aplicar la metodología de diseño para generar soluciones innovadoras con impacto social, tecnológico y ambiental.  
 
 Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (ODS):**  
 - ODS 3: Salud y Bienestar  
-- ODS 6: Agua Limpia y Saneamiento  
 - ODS 9: Industria, Innovación e Infraestructura  
-- ODS 11: Ciudades y Comunidades Sostenibles  
-- ODS 13: Acción por el Clima  
 
 ---
 
@@ -39,5 +36,15 @@ Nos interesa trabajar en los siguientes **Objetivos de Desarrollo Sostenible (OD
 
 ---
 
+
 ## 📌 Resumen Final  
-  
+  Somos el Equipo 03 del curso Fundamentos de Biodiseño (2026-2), un equipo multidisciplinario integrado por estudiantes de Ingeniería Biomédica. 
+
+Nos motiva la intersección entre la tecnología, la salud y la sostenibilidad. En este proyecto, aplicamos la metodología de biodiseño para desarrollar una solución innovadora enfocada en mejorar la calidad de vida, rehabilitación y autonomía de un paciente con secuelas de Parálisis Braquial Obstétrica (PBO) / Síndrome de Erb-Duchenne
+
+Nuestro trabajo durante el curso se enfoca en aportar a los siguientes Objetivos de Desarrollo Sostenible (ODS)
+
+
+ - ODS 3: Salud y Bienestar: Eje principal: Desarrollo de una solución asistencial para la mejora funcional del paciente.
+
+- ODS 9: Industria, Innovación e Infraestructura: Aplicación de innovación tecnológica e ingeniería biomédica/biodiseño.
